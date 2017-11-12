@@ -1,3 +1,3 @@
 # stats-in-python
-Reference - An Introduction to statistics with python
-            http://www.springer.com/us/book/9783319283159 
+All the important points from "An Introduction to statistics with python" are summarized in simple steps.
+Reference - http://www.springer.com/us/book/9783319283159 
